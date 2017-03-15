@@ -75,6 +75,7 @@
     <Content Include="Edit\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="Edit\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Models\userRipository.js" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

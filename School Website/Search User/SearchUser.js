@@ -1,9 +1,5 @@
-﻿/// <reference path="C:\Users\babur\onedrive\documents\visual studio 2013\Projects\School Website\School Website\Assign Role/assign-role.html" />
-/// <reference path="C:\Users\babur\onedrive\documents\visual studio 2013\Projects\School Website\School Website\Assign Role/assign-role.html" />
-
-function getUsers() {
+﻿function getUsers() {
     var user = [
-        (new User("01", "r", "Student")),
        (new User("02", "Rakesh Tiwari", "Student")),
        (new User("03", "Rahul Varma", "Student")),
        (new User("04", "Ashok Sahu", "Student")),
